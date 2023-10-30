@@ -1,5 +1,0 @@
-In vivo 7T MRI dataset probing the auditory system (cortical and subcortical) collected at Maastricht University (Scannexus) by Michelle Moerel, Faruk Gulban, and Federico De Martino. 
-
-All participants have two sessions, in which anatomical MRI (T1w and PDw) and task functional MRI data (8 runs per session) was collected. 
-
-Participants listen to natural sounds (96 sounds) and ripple sounds (4 different sounds, low [300 Hz] or high frequency [4000 Hz]), and perform a noise burst detection task. Noise burst can only occur in the ripple sounds. Per run, noise burst are either more likely to occur in the low (trial_type = ALow) or high frequency ripple sounds (trial_type = AHigh).
